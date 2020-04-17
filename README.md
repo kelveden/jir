@@ -3,7 +3,7 @@ jir
 
 > Very much a work in progress...
 
-Simple Jira CLI.
+A crude Jira CLI for those who want to avoid the UI.
 
 Configuration
 -------------
