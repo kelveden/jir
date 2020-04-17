@@ -15,6 +15,6 @@ You'll need a file `~/.jirconfig` with the following structure:
   "user": "JIRA_USERNAME",
   "password": "JIRA_API_KEY",
   "host": "JIRA_HOST",
-  "defaultBoard": <board-id>
+  "defaultBoard": board-id
 }
 ```
